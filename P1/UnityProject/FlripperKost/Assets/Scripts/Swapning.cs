@@ -9,10 +9,9 @@ public class Swapning : MonoBehaviour {
         location = transform.position;
 	}
 	
-	// Update is called once per frame
-
-    public void SpawnBall() {
+	public void SpawnBall() {
 
         Instantiate(balls, location, Quaternion.identity);
+
     }
 }

@@ -10,7 +10,8 @@ public class ExtraBall : MonoBehaviour {
         locatie = transform.position;
 	}
 	
-        void OnCollisionEnter() {
+    void OnCollisionEnter() {
+
         Instantiate(ball, locatie, Quaternion.identity);
         Destroy(gameObject);
         
