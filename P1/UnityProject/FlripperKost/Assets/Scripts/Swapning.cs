@@ -6,12 +6,12 @@ public class Swapning : MonoBehaviour {
     public Vector3 location;
 	// Use this for initialization
 	void Start () {
-        location = transform.position;
+        location = transform.position;//geef aan wat de locatie moet zijn
 	}
 	
 	public void SpawnBall() {
 
-        Instantiate(balls, location, Quaternion.identity);
+        Instantiate(balls, location, Quaternion.identity);//creëer nieuw balletje
 
     }
 }
