@@ -22,6 +22,7 @@ public class Manager : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
+        
         playerPos.z += 1;   
         anvilPos = anvil.transform.position;
     }
