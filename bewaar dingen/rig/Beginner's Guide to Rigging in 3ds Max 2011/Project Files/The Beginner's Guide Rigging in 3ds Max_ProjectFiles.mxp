@@ -1,0 +1,46 @@
+[Directories]
+Animations=.\sceneassets\animations
+Archives=.\archives
+AutoBackup=.\autoback
+BitmapProxies=.\proxies
+Downloads=.\downloads
+Export=.\export
+Expressions=.\express
+Images=.\sceneassets\images
+Import=.\import
+Materials=.\materiallibraries
+MaxStart=.\scenes
+Photometric=.\sceneassets\photometric
+Previews=.\previews
+ProjectFolder=Z:\Projects\MAX\The Beginner's Guide Rigging in 3ds Max_ProjectFiles
+RenderAssets=.\sceneassets\renderassets
+RenderOutput=.\renderoutput
+RenderPresets=.\renderpresets
+Scenes=.\scenes
+Sounds=.\sceneassets\sounds
+VideoPost=.\vpost
+[XReferenceDirs]
+Dir1=.\scenes
+[BitmapDirs]
+Dir1=H:\Program Files\Autodesk\3ds Max 2011\Maps
+Dir2=H:\Program Files\Autodesk\3ds Max 2011\Maps\glare
+Dir3=H:\Program Files\Autodesk\3ds Max 2011\Maps\adskMtl
+Dir4=H:\Program Files\Autodesk\3ds Max 2011\Maps\Noise
+Dir5=H:\Program Files\Autodesk\3ds Max 2011\Maps\fx
+Dir6=.\downloads
+Dir7=H:\Program Files\Autodesk\3ds Max 2011\maps\Backgrounds
+Dir8=H:\Program Files\Autodesk\3ds Max 2011\maps\Brick
+Dir9=H:\Program Files\Autodesk\3ds Max 2011\maps\Concrete
+Dir10=H:\Program Files\Autodesk\3ds Max 2011\maps\Fabric
+Dir11=H:\Program Files\Autodesk\3ds Max 2011\maps\Ground
+Dir12=H:\Program Files\Autodesk\3ds Max 2011\maps\HDRs
+Dir13=H:\Program Files\Autodesk\3ds Max 2011\maps\Lights
+Dir14=H:\Program Files\Autodesk\3ds Max 2011\maps\Metal
+Dir15=H:\Program Files\Autodesk\3ds Max 2011\maps\Misc
+Dir16=H:\Program Files\Autodesk\3ds Max 2011\maps\Organics
+Dir17=H:\Program Files\Autodesk\3ds Max 2011\maps\Reflection
+Dir18=H:\Program Files\Autodesk\3ds Max 2011\maps\Skies
+Dir19=H:\Program Files\Autodesk\3ds Max 2011\maps\Space
+Dir20=H:\Program Files\Autodesk\3ds Max 2011\maps\Stones
+Dir21=H:\Program Files\Autodesk\3ds Max 2011\maps\Wood
+Dir22=Z:\Projects\MAX\Intro to 3ds Max - Rigging\Intro to 3ds Max - Rigging_ProjectFiles\sceneassets\images
